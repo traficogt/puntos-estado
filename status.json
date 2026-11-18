@@ -1,34 +1,34 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T21:51:04.203Z",
+  "generatedAt": "2026-11-18T03:10:44.943Z",
   "startedAt": "2026-11-16T03:46:36.670Z",
   "components": [
     {
       "id": "sitio",
       "state": "up",
-      "checkedAt": "2026-11-17T21:50:59.097Z"
+      "checkedAt": "2026-11-18T03:10:41.041Z"
     },
     {
       "id": "acceso",
       "state": "up",
-      "checkedAt": "2026-11-17T21:50:59.913Z"
+      "checkedAt": "2026-11-18T03:10:41.730Z"
     },
     {
       "id": "sistema",
       "state": "up",
-      "checkedAt": "2026-11-17T21:51:00.450Z"
+      "checkedAt": "2026-11-18T03:10:41.969Z"
     },
     {
       "id": "ayuda",
       "state": "up",
-      "checkedAt": "2026-11-17T21:51:01.036Z"
+      "checkedAt": "2026-11-18T03:10:42.206Z"
     },
     {
       "id": "soporte",
       "state": "up",
-      "checkedAt": "2026-11-17T21:51:01.578Z"
+      "checkedAt": "2026-11-18T03:10:42.448Z"
     }
   ],
   "incidents": [],
-  "incidentsCheckedAt": "2026-11-17T21:51:04.203Z"
+  "incidentsCheckedAt": "2026-11-18T03:10:44.943Z"
 }
